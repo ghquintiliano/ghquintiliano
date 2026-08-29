@@ -1,51 +1,51 @@
-Olá! Eu sou Guilherme 👋
+# Olá! Eu sou Guilherme 👋
 
-👨‍💻 Sobre mim
+## 👨‍💻 Sobre mim
 
 🎓 Graduando em Engenharia da Computação e Técnico em Mecatrônica.
 
-Atualmente estou direcionando minha carreira para o desenvolvimento de software, com foco em Backend Java.
+Atualmente estou direcionando minha carreira para o desenvolvimento de software, com foco em **Backend Java**.
 
-🛠️ Tecnologias e Ferramentas
+## 🛠️ Tecnologias e Ferramentas
 
-💻 Linguagens
+### 💻 Linguagens
 
-* ☕ Java
-* 🐍 Python
+- ☕ Java
+- 🐍 Python
 
-⚙️ Backend
+### ⚙️ Backend
 
-* ☕ Java
-* 🌱 Spring Boot
-* 🔗 APIs REST
-* 🗄️ SQL
+- ☕ Java
+- 🌱 Spring Boot
+- 🔗 APIs REST
+- 🗄️ SQL
 
-🔧 Outros conhecimentos
+### 🔧 Outros conhecimentos
 
-* 🧩 Programação Orientada a Objetos
-* 🧠 Lógica de Programação
-* 🔀 Git e GitHub
-* 🏭 Automação Industrial
-* ⚙️ CLP
+- 🧩 Programação Orientada a Objetos
+- 🧠 Lógica de Programação
+- 🔀 Git e GitHub
+- 🏭 Automação Industrial
+- ⚙️ CLP
 
-📚 Atualmente estudando
+## 📚 Atualmente estudando
 
-* ☕ Java e Orientação a Objetos
-* 🌱 Spring Boot
-* 🔗 APIs REST
-* 🗄️ Bancos de dados
-* ✨ Boas práticas de desenvolvimento
+- ☕ Java e Orientação a Objetos
+- 🌱 Spring Boot
+- 🔗 APIs REST
+- 🗄️ Bancos de dados
+- ✨ Boas práticas de desenvolvimento
 
-📂 Projetos
+## 📂 Projetos
 
-* 🎓 Faculdade - Programação
-* 💻 Exercícios de Lógica de Programação
+- [🎓 Faculdade - Programação](https://github.com/ghquintiliano/faculdade-programacao)
+- [💻 Exercícios de Lógica de Programação](https://github.com/ghquintiliano/exercicio-logica-de-programacao)
 
-🎯 Interesses
+## 🎯 Interesses
 
-Tenho interesse em desenvolvimento Backend, especialmente utilizando Java e Spring Boot, além de tecnologias relacionadas ao desenvolvimento de software e automação.
+Tenho interesse em **desenvolvimento Backend**, especialmente utilizando **Java e Spring Boot**, além de tecnologias relacionadas ao desenvolvimento de software e automação.
 
-📫 Contato
+## 📫 Contato
 
-* 💼 LinkedIn
-* 🐙 GitHub
+- 💼 [LinkedIn](https://www.linkedin.com/in/ghquintiliano/)
+- 🐙 [GitHub](https://github.com/ghquintiliano)
