@@ -12,6 +12,8 @@ Atualmente estou direcionando minha carreira para o desenvolvimento de software,
 
 - ☕ Java
 - 🐍 Python
+- 🔧 C
+- 🌐 Ladder
 
 ### ⚙️ Backend
 
