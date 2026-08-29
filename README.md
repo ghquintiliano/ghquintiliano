@@ -1,16 +1,51 @@
-## Hi there 👋
+Olá! Eu sou Guilherme 👋
 
-<!--
-**ghquintiliano/ghquintiliano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Sobre mim
 
-Here are some ideas to get you started:
+🎓 Graduando em Engenharia da Computação e Técnico em Mecatrônica.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente estou direcionando minha carreira para o desenvolvimento de software, com foco em Backend Java.
+
+🛠️ Tecnologias e Ferramentas
+
+💻 Linguagens
+
+* ☕ Java
+* 🐍 Python
+
+⚙️ Backend
+
+* ☕ Java
+* 🌱 Spring Boot
+* 🔗 APIs REST
+* 🗄️ SQL
+
+🔧 Outros conhecimentos
+
+* 🧩 Programação Orientada a Objetos
+* 🧠 Lógica de Programação
+* 🔀 Git e GitHub
+* 🏭 Automação Industrial
+* ⚙️ CLP
+
+📚 Atualmente estudando
+
+* ☕ Java e Orientação a Objetos
+* 🌱 Spring Boot
+* 🔗 APIs REST
+* 🗄️ Bancos de dados
+* ✨ Boas práticas de desenvolvimento
+
+📂 Projetos
+
+* 🎓 Faculdade - Programação
+* 💻 Exercícios de Lógica de Programação
+
+🎯 Interesses
+
+Tenho interesse em desenvolvimento Backend, especialmente utilizando Java e Spring Boot, além de tecnologias relacionadas ao desenvolvimento de software e automação.
+
+📫 Contato
+
+* 💼 LinkedIn
+* 🐙 GitHub
