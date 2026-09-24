@@ -17,7 +17,7 @@
 
 ---
 
-## 👨🏻‍💻 Sobre mim
+## 🙇🏻 Sobre mim
 
 Sou **Técnico em Mecatrônica**, com experiência em **eletrônica, manutenção industrial, sensores, CLPs e automação**, e atualmente curso **Engenharia da Computação**.
 
@@ -351,8 +351,6 @@ Meu objetivo é utilizar essa combinação para trabalhar na interseção entre 
 | 🇧🇷 Português | Nativo |
 | 🇺🇸 Inglês | Em desenvolvimento |
 
-> Atualmente estou desenvolvendo meu inglês, especialmente para leitura de documentação, materiais técnicos e conteúdo relacionado à tecnologia.
-
 ---
 
 ## 🎯 Objetivo profissional
@@ -377,7 +375,7 @@ Também pretendo explorar a aplicação desses conhecimentos em ambientes indust
   🗄️ PostgreSQL &nbsp;•&nbsp;
   🔧 Git/GitHub &nbsp;•&nbsp;
   🐍 Python &nbsp;•&nbsp;
-  🇺🇸 Inglês técnico
+  🇺🇸 Inglês
 </p>
 
 ---
