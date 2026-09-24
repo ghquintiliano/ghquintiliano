@@ -1,110 +1,239 @@
-<h1 align="center">Olá, eu sou o Guilherme 🧑🏻‍💻</h1>
-
-<h3 align="center">Técnico em Mecatrônica • Engenharia da Computação • Backend Java → DevSecOps</h3>
+<h1 align="center">
+  Olá, eu sou o Guilherme 🧑🏻‍💻
+</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ghquintiliano">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+  <strong>Técnico em Mecatrônica → Backend Java → DevSecOps</strong>
+</p>
+
+<p align="center">
   <a href="https://github.com/ghquintiliano">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/ghquintiliano/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
 
 ---
 
-## 🧭 Sobre mim
+## 👨🏻‍💻 Sobre mim
 
-Sou **Técnico em Mecatrônica**, com experiência em manutenção eletrônica industrial, automação, sensores, CLPs e diagnóstico de falhas em equipamentos de chão de fábrica.
+Sou **Técnico em Mecatrônica**, com experiência em **eletrônica, manutenção industrial, sensores, CLPs e automação**, e atualmente curso **Engenharia da Computação**.
 
-Atualmente curso **Engenharia da Computação** e estou migrando para desenvolvimento de software, com **Java e Backend** como foco inicial.
+Minha transição para tecnologia começou a partir da experiência prática com máquinas e sistemas industriais. Hoje, estou direcionando essa base para o desenvolvimento de software, com **Java como principal linguagem** e foco inicial em desenvolvimento backend.
 
-Meu objetivo de longo prazo é **DevSecOps**, construindo essa trajetória através de desenvolvimento, infraestrutura, automação e segurança.
+Meu objetivo de longo prazo é atuar com **DevSecOps**, unindo desenvolvimento, infraestrutura, automação e segurança.
 
-> **Não estou tentando pular etapas. Estou construindo a base para chegar até elas.**
+Também tenho interesse em aplicar conhecimentos de software e segurança em ambientes industriais, especialmente em **OT/ICS**.
 
 ---
 
-## 🚀 Minha jornada
+## 🧭 Minha trajetória
 
-**Java Core**  
+**⚙️ Mecatrônica**  
 ↓  
-**Spring Boot + APIs REST**  
+**🔌 Eletrônica + Automação Industrial**  
 ↓  
-**Linux + Docker**  
+**🎓 Engenharia da Computação**  
 ↓  
-**CI/CD + Cloud**  
+**☕ Java + Programação Orientada a Objetos**  
 ↓  
-**Segurança**  
+**🗄️ SQL + PostgreSQL**  
 ↓  
-**DevSecOps**  
+**🌐 Spring Boot + APIs REST**  
 ↓  
-**OT / ICS Security**
+**🐧 Linux + Git + Docker**  
+↓  
+**🔄 CI/CD**  
+↓  
+**☁️ Cloud**  
+↓  
+**🔐 DevSecOps**  
+↓  
+**🏭 OT / ICS Security**
+
+> Minha ideia é construir essa trajetória de forma progressiva, fortalecendo primeiro os fundamentos de desenvolvimento antes de avançar para infraestrutura e segurança.
 
 ---
 
 ## 🛠️ Tecnologias
 
-### 🟢 Atualmente
+### 🟢 Atualmente estudando
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,git,github" alt="Java, Python, Git e GitHub">
+  <img src="https://skillicons.dev/icons?i=java,git,github,python,postgres" alt="Tecnologias estudadas">
 </p>
 
-### 📚 Estudando
+**Java • Git • GitHub • Python • PostgreSQL**
+
+### 🟡 Próximos passos
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,postgresql" alt="Java, Spring e PostgreSQL">
+  <img src="https://skillicons.dev/icons?i=spring,linux,docker" alt="Próximas tecnologias">
 </p>
 
-### 🔭 Próximas etapas
+**Spring Boot • APIs REST • Linux • Docker • CI/CD**
+
+### 🔵 Radar
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,docker,githubactions,aws,terraform,kubernetes" alt="Linux, Docker, GitHub Actions, AWS, Terraform e Kubernetes">
+  <img src="https://skillicons.dev/icons?i=aws,terraform,kubernetes" alt="Tecnologias no radar">
 </p>
 
-### 🔐 Segurança
-
-**Conceitos que pretendo desenvolver:**
-
-`OWASP` • `SAST` • `DAST` • `Dependency Scanning` • `Container Security` • `IAM` • `Secrets Management` • `Security Gates em CI/CD`
+**AWS • Terraform • Kubernetes • DevSecOps**
 
 ---
 
-## 🏭 Mecatrônica + Software
-
-Minha experiência industrial é uma parte importante da minha trajetória.
-
-Já tive contato com:
-
-`Sensores` • `CLPs` • `Automação Industrial` • `Eletrônica` • `Diagnóstico de Falhas` • `Diagramas Elétricos`
-
-Quero utilizar essa experiência como diferencial na interseção entre:
-
-**Software + Infraestrutura + Segurança + Sistemas Industriais**
-
-**⚙️ Mecatrônica**  
-↓  
-**💻 Software**  
-↓  
-**☁️ Infraestrutura**  
-↓  
-**🔐 Segurança**  
-↓  
-**🏭 OT / ICS**
-
----
-
-## 🚧 Projetos
-
-### 🏦 Sistema Bancário
-
-**Java • POO**
-
-Projeto desenvolvido para consolidar fundamentos de Java e Programação Orientada a Objetos.
+## 🗺️ Roadmap
 
 <details>
-<summary>📌 Conceitos praticados</summary>
+<summary><strong>☕ Etapa 1 — Fundamentos Java</strong></summary>
+
+<br>
+
+- Sintaxe e fundamentos da linguagem
+- Lógica de programação
+- Programação Orientada a Objetos
+- Classes e objetos
+- Encapsulamento
+- Herança
+- Polimorfismo
+- Interfaces
+- Exceções
+- Collections
+- Boas práticas de código
+
+**Status:** 🟢 Em andamento
+
+</details>
+
+<details>
+<summary><strong>🗄️ Etapa 2 — Banco de Dados</strong></summary>
+
+<br>
+
+- SQL
+- PostgreSQL
+- Modelagem de dados
+- Relacionamentos
+- JOINs
+- CRUD
+- Índices
+- Transações
+
+**Status:** 🟡 Estudando
+
+</details>
+
+<details>
+<summary><strong>🌐 Etapa 3 — Backend Java</strong></summary>
+
+<br>
+
+- Spring
+- Spring Boot
+- APIs REST
+- HTTP
+- JSON
+- JPA / Hibernate
+- Persistência de dados
+- Validação
+- Tratamento de exceções
+- Testes
+
+**Status:** 🔵 Próximo passo
+
+</details>
+
+<details>
+<summary><strong>🐧 Etapa 4 — Ambiente e Infraestrutura</strong></summary>
+
+<br>
+
+- Linux
+- Terminal
+- Git avançado
+- Docker
+- Containers
+- Docker Compose
+- Redes
+- Variáveis de ambiente
+
+**Status:** 🔵 Próximo passo
+
+</details>
+
+<details>
+<summary><strong>🔄 Etapa 5 — CI/CD</strong></summary>
+
+<br>
+
+- GitHub Actions
+- Pipelines
+- Build automatizado
+- Testes automatizados
+- Deploy
+- Artifacts
+- Versionamento
+
+**Status:** ⚪ Futuro
+
+</details>
+
+<details>
+<summary><strong>🔐 Etapa 6 — DevSecOps</strong></summary>
+
+<br>
+
+- OWASP
+- Secure Coding
+- SAST
+- DAST
+- Dependency Scanning
+- Container Security
+- Secrets Management
+- IAM
+- Security Gates
+- Segurança integrada ao CI/CD
+
+**Status:** ⚪ Futuro
+
+</details>
+
+<details>
+<summary><strong>🏭 Etapa 7 — OT / ICS Security</strong></summary>
+
+<br>
+
+Aplicar os conhecimentos adquiridos em software, infraestrutura e segurança em ambientes industriais.
+
+- Sistemas OT
+- ICS
+- CLPs
+- Redes industriais
+- Segurança de sistemas industriais
+- Monitoramento
+- Integração entre IT e OT
+
+**Status:** 🎯 Objetivo de longo prazo
+
+</details>
+
+---
+
+## 🚀 Projetos
+
+### 🏦 Sistema Bancário em Java
+
+<details>
+<summary><strong>🔎 Ver detalhes do projeto</strong></summary>
+
+<br>
+
+Projeto desenvolvido para consolidar os fundamentos de Java e Programação Orientada a Objetos.
+
+**Conceitos praticados:**
 
 - Classes e objetos
 - Encapsulamento
@@ -112,67 +241,168 @@ Projeto desenvolvido para consolidar fundamentos de Java e Programação Orienta
 - Métodos
 - Herança
 - Polimorfismo
-- Estruturas condicionais
-- Estruturas de repetição
-- Validação de dados
+- Collections
+- Tratamento de exceções
+- Entrada de dados
+- Organização de código
+
+**Tecnologias:**
+
+`Java` `POO`
+
+**Status:** 🟡 Em desenvolvimento
 
 </details>
-
-> 🚧 Em desenvolvimento.
 
 ---
 
 ### 📡 IoT Gateway
 
-**Java • Spring Boot • MQTT • PostgreSQL / TimescaleDB • Grafana • Docker**
+<details>
+<summary><strong>🔎 Ver detalhes do projeto</strong></summary>
 
-Projeto planejado para integrar minha experiência em eletrônica e automação com desenvolvimento backend.
+<br>
 
-A proposta é criar um gateway capaz de receber dados de dispositivos e sensores, processar essas informações através de um backend e disponibilizá-las para monitoramento.
+Projeto pensado para conectar minha experiência em **automação industrial** com desenvolvimento backend.
+
+A ideia é desenvolver um gateway capaz de receber dados de dispositivos e sensores, processar essas informações e disponibilizá-las para monitoramento.
+
+**Tecnologias planejadas:**
+
+`Java` `Spring Boot` `MQTT` `PostgreSQL` `TimescaleDB` `Grafana` `Docker`
+
+**Arquitetura planejada:**
+
+    Sensores / Dispositivos
+             ↓
+            MQTT
+             ↓
+        IoT Gateway
+             ↓
+        PostgreSQL
+             ↓
+          Grafana
 
 **Evolução planejada:**
 
-`Backend → Docker → Observabilidade → CI/CD → Segurança`
+- Docker
+- CI/CD
+- Observabilidade
+- Monitoramento
+- Segurança
+- Cloud
+- Práticas de DevSecOps
 
-> 🔭 Projeto planejado.
+**Status:** 🔵 Planejamento / desenvolvimento futuro
+
+</details>
 
 ---
 
-## 🎯 Objetivo
+## ⚙️ Mecatrônica + Software
 
-Quero construir uma carreira que conecte conhecimentos de diferentes áreas:
+Minha experiência em ambiente industrial influencia diretamente a forma como estou construindo minha carreira em tecnologia.
 
-**Eletrônica**  
-+  
-**Mecatrônica**  
-+  
-**Engenharia da Computação**  
-+  
-**Backend**  
-+  
-**Infraestrutura**  
-+  
-**Segurança**  
-=  
-**DevSecOps**
+<details>
+<summary><strong>🔎 O que trago da Mecatrônica para a tecnologia?</strong></summary>
 
-No longo prazo, tenho interesse em aplicar essa combinação também em **ambientes industriais e OT/ICS**.
+<br>
+
+### 🔌 Eletrônica
+
+- Diagnóstico de falhas
+- Leitura de diagramas
+- Instrumentação
+- Manutenção eletrônica
+
+### ⚙️ Automação
+
+- CLPs
+- Sensores
+- Atuadores
+- Sistemas automatizados
+
+### 🏭 Ambiente industrial
+
+- Resolução de problemas
+- Análise de falhas
+- Manutenção preventiva e corretiva
+- Trabalho com equipamentos reais
+
+### 💻 Desenvolvimento
+
+- Java
+- Programação Orientada a Objetos
+- SQL
+- Backend
+- APIs
+- Git/GitHub
+
+Meu objetivo é utilizar essa combinação para trabalhar na interseção entre **software, infraestrutura, automação e segurança**.
+
+</details>
+
+---
+
+## 🌎 Idiomas
+
+| Idioma | Nível |
+|---|---|
+| 🇧🇷 Português | Nativo |
+| 🇺🇸 Inglês | Em desenvolvimento |
+
+> Atualmente estou desenvolvendo meu inglês, especialmente para leitura de documentação, materiais técnicos e conteúdo relacionado à tecnologia.
+
+---
+
+## 🎯 Objetivo profissional
+
+Construir uma carreira em tecnologia começando pelo **desenvolvimento backend**, consolidando conhecimentos em Java, bancos de dados, APIs, Linux, Docker e CI/CD.
+
+A longo prazo, meu objetivo é atuar com **DevSecOps**, integrando desenvolvimento, infraestrutura e segurança.
+
+Também pretendo explorar a aplicação desses conhecimentos em ambientes industriais, conectando minha experiência em **Mecatrônica e Automação** com **OT/ICS Security**.
+
+---
+
+## 📚 Atualmente
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,git,github,python,postgres" alt="Tecnologias atuais">
+</p>
+
+<p align="center">
+  ☕ Java &nbsp;•&nbsp;
+  🧠 POO &nbsp;•&nbsp;
+  🗄️ PostgreSQL &nbsp;•&nbsp;
+  🔧 Git/GitHub &nbsp;•&nbsp;
+  🐍 Python &nbsp;•&nbsp;
+  🇺🇸 Inglês técnico
+</p>
 
 ---
 
 ## 📊 GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ghquintiliano&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="Estatísticas do GitHub">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghquintiliano&layout=compact&theme=transparent&hide_border=true" alt="Linguagens mais usadas">
+  <a href="https://github.com/ghquintiliano">
+    <img src="https://img.shields.io/badge/Projetos%20e%20c%C3%B3digos-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
+
+<p align="center">
+  <i>Aprendendo, construindo e documentando minha evolução em desenvolvimento de software.</i>
 </p>
 
 ---
 
 ## 📫 Contato
 
-<p>
-  <a href="https://www.linkedin.com/in/ghquintiliano">
+<p align="center">
+  <a href="https://github.com/ghquintiliano">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/ghquintiliano/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
@@ -180,5 +410,5 @@ No longo prazo, tenho interesse em aplicar essa combinação também em **ambien
 ---
 
 <p align="center">
-  <i>Construindo software. Entendendo infraestrutura. Aprendendo segurança.</i>
-</p>l
+  <i>⚙️ Do chão de fábrica ao código. Construindo uma carreira em tecnologia, um projeto de cada vez.</i>
+</p>
