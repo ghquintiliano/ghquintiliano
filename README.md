@@ -21,7 +21,7 @@
 
 Sou **Técnico em Mecatrônica**, com experiência em **eletrônica, manutenção industrial, sensores, CLPs e automação**, e atualmente curso **Engenharia da Computação**.
 
-Minha transição para tecnologia começou a partir da experiência prática com máquinas e sistemas industriais. Hoje, estou direcionando essa base para o desenvolvimento de software, com **Java como principal linguagem** e foco inicial em desenvolvimento backend.
+Minha transição para tecnologia começou a partir da experiência prática com máquinas e sistemas industriais. Hoje, estou direcionando essa base para o desenvolvimento de software, com **Java como principal linguagem** e foco em desenvolvimento backend.
 
 Meu objetivo de longo prazo é atuar com **DevSecOps**, unindo desenvolvimento, infraestrutura, automação e segurança.
 
@@ -43,17 +43,15 @@ Também tenho interesse em aplicar conhecimentos de software e segurança em amb
 ↓  
 **🌐 Spring Boot + APIs REST**  
 ↓  
-**🐧 Linux + Git + Docker**  
+**🐧 Linux + Docker + CI/CD**  
 ↓  
-**🔄 CI/CD**  
-↓  
-**☁️ Cloud**  
+**☁️ Cloud (AWS)**  
 ↓  
 **🔐 DevSecOps**  
 ↓  
 **🏭 OT / ICS Security**
 
-> Minha ideia é construir essa trajetória de forma progressiva, fortalecendo primeiro os fundamentos de desenvolvimento antes de avançar para infraestrutura e segurança.
+> Uma evolução progressiva: primeiro construo fundamentos sólidos em desenvolvimento backend, depois avanço para infraestrutura, cloud e segurança.
 
 ---
 
@@ -65,15 +63,17 @@ Também tenho interesse em aplicar conhecimentos de software e segurança em amb
   <img src="https://skillicons.dev/icons?i=java,git,github,python,postgres" alt="Tecnologias estudadas">
 </p>
 
-**Java • Git • GitHub • Python • PostgreSQL**
+**Java • Git • GitHub • PostgreSQL**
+
+> **Python** entra como linguagem de apoio para lógica, automação e scripts, enquanto **Java é minha principal linguagem de desenvolvimento**.
 
 ### 🟡 Próximos passos
 
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,linux,docker" alt="Próximas tecnologias">
+  <img src="https://skillicons.dev/icons?i=spring" alt="Próximas tecnologias">
 </p>
 
-**Spring Boot • APIs REST • Linux • Docker • CI/CD**
+**Spring Boot • APIs REST**
 
 ### 🔵 Radar
 
@@ -81,7 +81,7 @@ Também tenho interesse em aplicar conhecimentos de software e segurança em amb
   <img src="https://skillicons.dev/icons?i=aws,terraform,kubernetes" alt="Tecnologias no radar">
 </p>
 
-**AWS • Terraform • Kubernetes • DevSecOps**
+**AWS • Terraform • Kubernetes**
 
 ---
 
@@ -92,7 +92,7 @@ Também tenho interesse em aplicar conhecimentos de software e segurança em amb
 
 <br>
 
-- Sintaxe e fundamentos da linguagem
+- Sintaxe e fundamentos
 - Lógica de programação
 - Programação Orientada a Objetos
 - Classes e objetos
@@ -102,25 +102,30 @@ Também tenho interesse em aplicar conhecimentos de software e segurança em amb
 - Interfaces
 - Exceções
 - Collections
-- Boas práticas de código
+- Generics
+- Lambda e Stream API
+- Boas práticas
+- JUnit e fundamentos de testes
 
 **Status:** 🟢 Em andamento
 
 </details>
 
 <details>
-<summary><strong>🗄️ Etapa 2 — Banco de Dados</strong></summary>
+<summary><strong>🗄️ Etapa 2 — SQL e PostgreSQL</strong></summary>
 
 <br>
 
-- SQL
-- PostgreSQL
+- Bancos relacionais
 - Modelagem de dados
+- SQL
+- CRUD
 - Relacionamentos
 - JOINs
-- CRUD
+- Constraints
 - Índices
 - Transações
+- PostgreSQL
 
 **Status:** 🟡 Estudando
 
@@ -137,30 +142,32 @@ Também tenho interesse em aplicar conhecimentos de software e segurança em amb
 - HTTP
 - JSON
 - JPA / Hibernate
-- Persistência de dados
+- DTOs
 - Validação
 - Tratamento de exceções
-- Testes
+- Testes de API e integração
 
 **Status:** 🔵 Próximo passo
 
 </details>
 
 <details>
-<summary><strong>🐧 Etapa 4 — Ambiente e Infraestrutura</strong></summary>
+<summary><strong>🐧 Etapa 4 — Infraestrutura e Containers</strong></summary>
 
 <br>
 
 - Linux
 - Terminal
-- Git avançado
-- Docker
-- Containers
-- Docker Compose
 - Redes
+- SSH
+- Processos e serviços
 - Variáveis de ambiente
+- Docker
+- Docker Compose
+- Containers
+- Logs
 
-**Status:** 🔵 Próximo passo
+**Status:** ⚪ Futuro
 
 </details>
 
@@ -169,20 +176,42 @@ Também tenho interesse em aplicar conhecimentos de software e segurança em amb
 
 <br>
 
+- Integração contínua
 - GitHub Actions
 - Pipelines
 - Build automatizado
 - Testes automatizados
-- Deploy
 - Artifacts
-- Versionamento
+- Secrets
+- Deploy
 
 **Status:** ⚪ Futuro
 
 </details>
 
 <details>
-<summary><strong>🔐 Etapa 6 — DevSecOps</strong></summary>
+<summary><strong>☁️ Etapa 6 — Cloud (AWS)</strong></summary>
+
+<br>
+
+- Fundamentos de Cloud
+- AWS
+- Compute
+- Storage
+- Bancos de dados
+- Redes
+- IAM
+- Monitoramento
+- Logs
+- Deploy
+- Conceitos de infraestrutura como código
+
+**Status:** ⚪ Futuro
+
+</details>
+
+<details>
+<summary><strong>🔐 Etapa 7 — DevSecOps</strong></summary>
 
 <br>
 
@@ -197,28 +226,31 @@ Também tenho interesse em aplicar conhecimentos de software e segurança em amb
 - Security Gates
 - Segurança integrada ao CI/CD
 
-**Status:** ⚪ Futuro
+**Status:** 🎯 Objetivo
 
 </details>
 
 <details>
-<summary><strong>🏭 Etapa 7 — OT / ICS Security</strong></summary>
+<summary><strong>🏭 Etapa 8 — OT / ICS Security</strong></summary>
 
 <br>
 
-Aplicar os conhecimentos adquiridos em software, infraestrutura e segurança em ambientes industriais.
+Aplicar conhecimentos de desenvolvimento, infraestrutura e segurança em ambientes industriais.
 
 - Sistemas OT
 - ICS
 - CLPs
 - Redes industriais
-- Segurança de sistemas industriais
 - Monitoramento
-- Integração entre IT e OT
+- Segurança de sistemas industriais
+- Integração IT/OT
+- Defesa em profundidade
 
 **Status:** 🎯 Objetivo de longo prazo
 
 </details>
+
+> 🔧 **Git/GitHub:** uso contínuo em todas as etapas do roadmap.
 
 ---
 
@@ -243,14 +275,21 @@ Projeto desenvolvido para consolidar os fundamentos de Java e Programação Orie
 - Polimorfismo
 - Collections
 - Tratamento de exceções
-- Entrada de dados
+- Validações
 - Organização de código
+- Testes
 
 **Tecnologias:**
 
-`Java` `POO`
+`Java` `POO` `JUnit`
 
 **Status:** 🟡 Em desenvolvimento
+
+<br>
+
+<a href="https://github.com/ghquintiliano">
+  <img src="https://img.shields.io/badge/Ver%20no%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver projeto no GitHub">
+</a>
 
 </details>
 
@@ -279,7 +318,7 @@ A ideia é desenvolver um gateway capaz de receber dados de dispositivos e senso
              ↓
         IoT Gateway
              ↓
-        PostgreSQL
+     PostgreSQL / TimescaleDB
              ↓
           Grafana
 
@@ -294,6 +333,12 @@ A ideia é desenvolver um gateway capaz de receber dados de dispositivos e senso
 - Práticas de DevSecOps
 
 **Status:** 🔵 Planejamento / desenvolvimento futuro
+
+<br>
+
+<a href="https://github.com/ghquintiliano">
+  <img src="https://img.shields.io/badge/Ver%20no%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver projeto no GitHub">
+</a>
 
 </details>
 
