@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ghquintiliano/">
-    <img src="https://img.shields.io/badge/LINKEDIN-PERFIL-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
 
@@ -37,61 +37,41 @@ Na tecnologia, meu foco é desenvolvimento backend com Java, com objetivo de atu
 ## Automação & Eletrônica
 
 <p align="center">
-
-  <img src="https://api.iconify.design/ix/plc.svg?color=%23FFFFFF"
-       width="55"
-       height="55"
-       alt="PLC">
-
+  <img src="https://api.iconify.design/ix/plc.svg" width="55" height="55" alt="PLC">
   &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <img src="https://api.iconify.design/ix/function-diagram.svg?color=%23FFFFFF"
-       width="55"
-       height="55"
-       alt="Ladder">
-
+  <img src="https://api.iconify.design/ix/function-diagram.svg" width="55" height="55" alt="Ladder">
   &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <img src="https://api.iconify.design/mdi/monitor-dashboard.svg?color=%23FFFFFF"
-       width="55"
-       height="55"
-       alt="SCADA">
-
+  <img src="https://api.iconify.design/mdi/monitor-dashboard.svg" width="55" height="55" alt="SCADA">
   &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <img src="https://api.iconify.design/mdi/lan-connect.svg?color=%23FFFFFF"
-       width="55"
-       height="55"
-       alt="Modbus">
-
+  <img src="https://api.iconify.design/mdi/lan-connect.svg" width="55" height="55" alt="Modbus">
   &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <img src="https://api.iconify.design/mdi/chip.svg?color=%23FFFFFF"
-       width="55"
-       height="55"
-       alt="Eletrônica">
-
+  <img src="https://api.iconify.design/lucide/circuit-board.svg" width="55" height="55" alt="Eletrônica">
   &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <img src="https://api.iconify.design/ri/sensor-line.svg?color=%23FFFFFF"
-       width="55"
-       height="55"
-       alt="Sensores">
-
+  <img src="https://api.iconify.design/ri/sensor-line.svg" width="55" height="55" alt="Sensores">
 </p>
 
 <p align="center">
-  <sub>PLC &nbsp;&nbsp;•&nbsp;&nbsp; Ladder &nbsp;&nbsp;•&nbsp;&nbsp; SCADA &nbsp;&nbsp;•&nbsp;&nbsp; Modbus &nbsp;&nbsp;•&nbsp;&nbsp; Eletrônica &nbsp;&nbsp;•&nbsp;&nbsp; Sensores</sub>
+  <strong>PLC</strong>
+  &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
+  <strong>Ladder</strong>
+  &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
+  <strong>SCADA</strong>
+  &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
+  <strong>Modbus</strong>
+  &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
+  <strong>Eletrônica</strong>
+  &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
+  <strong>Sensores</strong>
 </p>
 
 ---
 
 ## Formação
 
-🎓 **Engenharia da Computação**  
+🎓 **Engenharia da Computação**
 Universidade Cruzeiro do Sul
 
-🎓 **Técnico em Mecatrônica**  
+🎓 **Técnico em Mecatrônica**
 SENAI
 
 ---
@@ -99,15 +79,11 @@ SENAI
 ## Idiomas
 
 <p align="center">
-  <img src="https://flagcdn.com/w40/br.png" width="40" alt="Brasil">
-  &nbsp;&nbsp;
-  <strong>Português — Nativo</strong>
-
+  <img src="https://flagcdn.com/24x18/br.png" alt="Brasil">
+  <strong> Português — Nativo</strong>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <img src="https://flagcdn.com/w40/us.png" width="40" alt="Estados Unidos">
-  &nbsp;&nbsp;
-  <strong>Inglês — Em desenvolvimento</strong>
+  <img src="https://flagcdn.com/24x18/us.png" alt="Estados Unidos">
+  <strong> Inglês — Em desenvolvimento</strong>
 </p>
 
 ---
