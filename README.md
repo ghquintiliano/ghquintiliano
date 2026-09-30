@@ -29,23 +29,20 @@ Na tecnologia, meu foco é desenvolvimento backend com Java e, a longo prazo, De
 ## Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,postgresql,spring,git,github,linux,docker,aws,terraform,kubernetes" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,postgresql,spring,git,github,linux,docker,aws,terraform,kubernetes" />
 </p>
 
 ---
 
-## Eletrônica & Automação
+## Automação & Eletrônica
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Eletrônica-555555?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Automação_Industrial-555555?style=for-the-badge">
-  <img src="https://img.shields.io/badge/CLP-555555?style=for-the-badge">
+  <img src="https://img.shields.io/badge/PLC-555555?style=for-the-badge">
   <img src="https://img.shields.io/badge/Ladder-555555?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Sensores-555555?style=for-the-badge">
+  <img src="https://img.shields.io/badge/SCADA-555555?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Modbus-555555?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Industrial_Automation-555555?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Electronics-555555?style=for-the-badge">
 </p>
 
 ---
@@ -63,9 +60,8 @@ SENAI
 ## Idiomas
 
 <p align="center">
-  🇧🇷 &nbsp; Português — Nativo
-  &nbsp;&nbsp;&nbsp;
-  🇺🇸 &nbsp; Inglês — Em desenvolvimento
+  <img src="https://img.shields.io/badge/Portugu%C3%AAs-Nativo-555555?style=for-the-badge&logo=googletranslate&logoColor=white">
+  <img src="https://img.shields.io/badge/Ingl%C3%AAs-Em%20desenvolvimento-555555?style=for-the-badge&logo=googletranslate&logoColor=white">
 </p>
 
 ---
